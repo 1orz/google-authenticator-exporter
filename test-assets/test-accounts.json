@@ -1,0 +1,27 @@
+[
+    {
+        "secret": "SGVsbA8h3q2+6A==",
+        "name": "Test account 1",
+        "algorithm": "SHA1",
+        "digits": "SIX",
+        "type": "TOTP",
+        "totpSecret": "JBSWY3APEHPK3PXI"
+    },
+    {
+        "secret": "AGVsbG8h3q2+7w==",
+        "name": "Test account 2",
+        "algorithm": "SHA1",
+        "digits": "SIX",
+        "type": "TOTP",
+        "totpSecret": "ABSWY3DPEHPK3PXP"
+    },
+    {
+        "secret": "AESNbGQvO+MdHw==",
+        "name": "Counter key 1",
+        "algorithm": "SHA1",
+        "digits": "SIX",
+        "type": "HOTP",
+        "counter": "1",
+        "totpSecret": "ABCI23DEF456GHI7"
+    }
+]
